@@ -1,0 +1,13 @@
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Midterm_Project\bin\Debug\netcoreapp3.1\Midterm_Project.exe
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Midterm_Project\bin\Debug\netcoreapp3.1\Midterm_Project.deps.json
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Midterm_Project\bin\Debug\netcoreapp3.1\Midterm_Project.runtimeconfig.json
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Midterm_Project\bin\Debug\netcoreapp3.1\Midterm_Project.runtimeconfig.dev.json
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Midterm_Project\bin\Debug\netcoreapp3.1\Midterm_Project.dll
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Midterm_Project\bin\Debug\netcoreapp3.1\Midterm_Project.pdb
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Midterm_Project\obj\Debug\netcoreapp3.1\Midterm_Project.csprojAssemblyReference.cache
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Midterm_Project\obj\Debug\netcoreapp3.1\Midterm_Project.AssemblyInfoInputs.cache
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Midterm_Project\obj\Debug\netcoreapp3.1\Midterm_Project.AssemblyInfo.cs
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Midterm_Project\obj\Debug\netcoreapp3.1\Midterm_Project.csproj.CoreCompileInputs.cache
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Midterm_Project\obj\Debug\netcoreapp3.1\Midterm_Project.dll
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Midterm_Project\obj\Debug\netcoreapp3.1\Midterm_Project.pdb
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Midterm_Project\obj\Debug\netcoreapp3.1\Midterm_Project.genruntimeconfig.cache

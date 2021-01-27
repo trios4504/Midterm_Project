@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tomri\\OneDrive\\Desktop\\CS 133 Projects\\Midterm_Project Edited\\Midterm_Project.csproj",
+      "projectUniqueName": "F:\\Desktop\\Desktop - Thomas’s MacBook Air\\C#\\Midterm_Project Edited\\Midterm_Project.csproj",
       "projectName": "Midterm_Project",
-      "projectPath": "C:\\Users\\tomri\\OneDrive\\Desktop\\CS 133 Projects\\Midterm_Project Edited\\Midterm_Project.csproj",
+      "projectPath": "F:\\Desktop\\Desktop - Thomas’s MacBook Air\\C#\\Midterm_Project Edited\\Midterm_Project.csproj",
       "packagesPath": "C:\\Users\\tomri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tomri\\OneDrive\\Desktop\\CS 133 Projects\\Midterm_Project Edited\\obj\\",
+      "outputPath": "F:\\Desktop\\Desktop - Thomas’s MacBook Air\\C#\\Midterm_Project Edited\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

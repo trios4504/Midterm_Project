@@ -24,3 +24,16 @@ C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Midterm_Project Edited\obj\Debug
 C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Midterm_Project Edited\obj\Debug\netcoreapp3.1\Midterm_Project.dll
 C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Midterm_Project Edited\obj\Debug\netcoreapp3.1\Midterm_Project.pdb
 C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Midterm_Project Edited\obj\Debug\netcoreapp3.1\Midterm_Project.genruntimeconfig.cache
+F:\Desktop\Desktop - Thomas’s MacBook Air\C#\Midterm_Project Edited\bin\Debug\netcoreapp3.1\Midterm_Project.exe
+F:\Desktop\Desktop - Thomas’s MacBook Air\C#\Midterm_Project Edited\bin\Debug\netcoreapp3.1\Midterm_Project.deps.json
+F:\Desktop\Desktop - Thomas’s MacBook Air\C#\Midterm_Project Edited\bin\Debug\netcoreapp3.1\Midterm_Project.runtimeconfig.json
+F:\Desktop\Desktop - Thomas’s MacBook Air\C#\Midterm_Project Edited\bin\Debug\netcoreapp3.1\Midterm_Project.runtimeconfig.dev.json
+F:\Desktop\Desktop - Thomas’s MacBook Air\C#\Midterm_Project Edited\bin\Debug\netcoreapp3.1\Midterm_Project.dll
+F:\Desktop\Desktop - Thomas’s MacBook Air\C#\Midterm_Project Edited\bin\Debug\netcoreapp3.1\Midterm_Project.pdb
+F:\Desktop\Desktop - Thomas’s MacBook Air\C#\Midterm_Project Edited\obj\Debug\netcoreapp3.1\Midterm_Project.csprojAssemblyReference.cache
+F:\Desktop\Desktop - Thomas’s MacBook Air\C#\Midterm_Project Edited\obj\Debug\netcoreapp3.1\Midterm_Project.AssemblyInfoInputs.cache
+F:\Desktop\Desktop - Thomas’s MacBook Air\C#\Midterm_Project Edited\obj\Debug\netcoreapp3.1\Midterm_Project.AssemblyInfo.cs
+F:\Desktop\Desktop - Thomas’s MacBook Air\C#\Midterm_Project Edited\obj\Debug\netcoreapp3.1\Midterm_Project.csproj.CoreCompileInputs.cache
+F:\Desktop\Desktop - Thomas’s MacBook Air\C#\Midterm_Project Edited\obj\Debug\netcoreapp3.1\Midterm_Project.dll
+F:\Desktop\Desktop - Thomas’s MacBook Air\C#\Midterm_Project Edited\obj\Debug\netcoreapp3.1\Midterm_Project.pdb
+F:\Desktop\Desktop - Thomas’s MacBook Air\C#\Midterm_Project Edited\obj\Debug\netcoreapp3.1\Midterm_Project.genruntimeconfig.cache

@@ -17,13 +17,31 @@ namespace Midterm_Project
 
             myRestaurant.HowManyCustomersWaiting();
             myRestaurant.ShowTheActualCustomers();
-           
-            myRestaurant.stackDishesAction("stacks the used plates in the dirty dish stack");
-            myRestaurant.PrintWaiterActions();
-            myRestaurant.stackCleanDishesAction("stacks the clean plates in the clean dish stack");
-            myRestaurant.cleanDishesAction("washes the dishes");
-            myRestaurant.removesDishesAction("removes the dirty dishes from the stack of dirty dishes");
-            myRestaurant.PrintPorterActions();
+
+            myRestaurant.AddDishesToCleanStack("Dish 4");
+            myRestaurant.AddDishesToCleanStack("Dish 3");
+            myRestaurant.AddDishesToCleanStack("Dish 2");
+            myRestaurant.AddDishesToCleanStack("Dish 1");
+
+            myRestaurant.moveToDirtyStack();
+            Console.WriteLine("Dirty Dishes:");
+            myRestaurant.PrintDirtyDishes();
+            Console.WriteLine("Clean Dishes:");
+            myRestaurant.PrintCleanDishes();
+
+            Console.WriteLine("Washing:");
+            myRestaurant.moveToCleanStack();
+            Console.WriteLine("Dirty Dishes:");
+            myRestaurant.PrintDirtyDishes();
+            Console.WriteLine("Clean Dishes:");
+            myRestaurant.PrintCleanDishes();
+
+            //myRestaurant.stackDishesAction("stacks the used plates in the dirty dish stack");
+            //myRestaurant.PrintWaiterActions();
+            //myRestaurant.stackCleanDishesAction("stacks the clean plates in the clean dish stack");
+            //myRestaurant.cleanDishesAction("washes the dishes");
+            //myRestaurant.removesDishesAction("removes the dirty dishes from the stack of dirty dishes");
+            //myRestaurant.PrintPorterActions();
 
         }
     }
@@ -35,6 +53,8 @@ namespace Midterm_Project
         private Stack<string> customerActions = new Stack<string>();
         private Stack<string> waiterActions = new Stack<string>();
         private Stack<string> porterActions = new Stack<string>();
+        private Stack<string> dirtyDishes = new Stack<string>();
+        private Stack<string> cleanDishes = new Stack<string>();
         public void AddCustomersToTheQueue(string parameter)
         {
             waitingQueue.Enqueue(parameter);
@@ -124,6 +144,37 @@ namespace Midterm_Project
             foreach (var item in porterActions)
             {
                 Console.WriteLine("The kitchen porter: " + item);
+            }
+        }
+
+        public void AddDishesToCleanStack(string AddtoCleanStack)
+        {
+            cleanDishes.Push(AddtoCleanStack);
+        }
+
+        public void moveToDirtyStack()
+        {
+            string moveDishesToDirty = cleanDishes.Pop();dirtyDishes.Push(moveDishesToDirty);
+        }
+
+        public void moveToCleanStack()
+        {
+            string moveDishesToClean = dirtyDishes.Pop(); cleanDishes.Push(moveDishesToClean);
+        }
+
+        public void PrintCleanDishes()
+        {
+            foreach (var item in cleanDishes)
+            {
+                Console.WriteLine(item);
+            }
+        }
+
+        public void PrintDirtyDishes()
+        {
+            foreach (var item in dirtyDishes)
+            {
+                Console.WriteLine(item);
             }
         }
     }
